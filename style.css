@@ -15,6 +15,11 @@ h2{
     color: white;
 }
 
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
 .green {
     background-color: mediumspringgreen;
 }
