@@ -1,5 +1,6 @@
 # Dasmoto-s-Arts-Crafts-Codecademy-project-
-A simpl static CSS and HTML page for codecademy.
+A very simple static CSS and HTML page as practice for basic CSS.
+From Codecademy.
 
 ## Technologies
 + HTML
